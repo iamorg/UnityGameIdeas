@@ -3,3 +3,4 @@ NOTE: If you have any questions or would like to dicuss these ideas with furthur
 feel free to talk about it in the #general chat.
 
 1) 3D tower defense game - Jeremy
+2) An arcade style game, mix of Helicopter and Asteroids, but in First Person - Cade
